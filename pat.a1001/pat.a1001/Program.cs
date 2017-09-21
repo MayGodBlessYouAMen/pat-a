@@ -2,6 +2,12 @@
 
 namespace pat.a1001
 {
+    /// <summary> 
+    /// pat.a1001
+    /// 2016.07.14
+    /// by XY
+    /// at warabi
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
