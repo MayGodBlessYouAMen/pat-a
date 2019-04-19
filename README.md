@@ -1,5 +1,5 @@
 # pat-a PAT (Advanced Level) Practise
 
-https://www.patest.cn/contests/pat-a-practise
+https://www.patest.cn/practice 甲级
 
-create by VS2010 C#
+VS2010 C#
